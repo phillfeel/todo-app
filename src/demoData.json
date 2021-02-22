@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Запустить Todo by Bykov Philipp.",
+      "color": "green",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "text": "Выбрать цвет для заметки",
+      "color": "blue",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "text": "Написать заметку",
+      "color": "orange",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "text": "Изменить её текст и удалить",
+      "color": "blue",
+      "completed": false
+    }
+  ]
+}
